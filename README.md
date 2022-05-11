@@ -18,3 +18,12 @@
 https://www.cl.cam.ac.uk/research/dtg/attarchive/facedatabase.html
 
 40 sujetos distintos, diez imagenes / tomas del rostro de cada uno. Las imagenes tienen diferente iluminacion, expresiones faciales, etc...
+
+## ¿Qué es PCA?
+
+Contenido referencial
+https://www.cienciadedatos.net/documentos/35_principal_component_analysis
+
+
+StatQuest: Principal Component Analysis (PCA), Step-by-Step
+https://www.youtube.com/watch?v=FgakZw6K1QQ
