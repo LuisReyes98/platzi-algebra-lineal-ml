@@ -1,6 +1,7 @@
 # Curso de Algebra Lineal Aplicada a Machine Learning con Python
 
 ## Profesor: Sebastian Sosa
+
 ## Version: 09/2019
 
 ## Basado en el Segundo Capitulo "2 Algebra Lineal" del libro http://www.deeplearningbook.org/
